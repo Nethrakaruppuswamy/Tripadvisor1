@@ -1,0 +1,5 @@
+{
+  "name": "TripAdvisor Clone",
+  "description": "A full-stack travel platform clone with hotels, restaurants, and attractions search, reviews, and admin panel.",
+  "requestFramePermissions": []
+}
